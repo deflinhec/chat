@@ -1,5 +1,11 @@
 # create-chat-sdk
 
+## 0.7.1
+
+### Patch Changes
+
+- 09cb11e: Add Adeli as a vendor-official adapter (`@adeli/chat-sdk-adapter`) to the catalog, docs listing, and CLI scaffold spec.
+
 ## 0.7.0
 
 ### Minor Changes

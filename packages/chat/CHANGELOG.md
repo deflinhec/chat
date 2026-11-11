@@ -1,5 +1,16 @@
 # chat
 
+## 4.45.0
+
+### Patch Changes
+
+- Updated dependencies [09cb11e]
+- Updated dependencies [50c1116]
+- Updated dependencies [e5e5206]
+- Updated dependencies [a6ec788]
+- Updated dependencies [6e0bba3]
+  - @chat-adapter/catalog@4.45.0
+
 ## 4.44.0
 
 ### Minor Changes
